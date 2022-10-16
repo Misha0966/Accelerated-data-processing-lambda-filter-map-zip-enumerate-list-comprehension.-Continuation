@@ -5,9 +5,9 @@
 
 Например:
 
-Задача №1 - lambda
-Задача №2 - filter
-Задача №3 - map
-Задача №4 - zip
-Задача №5 - enumerate
-Задача №6 - list comprehension
+ Задача №1 - lambda
+ Задача №2 - filter
+ Задача №3 - map
+ Задача №4 - zip
+ Задача №5 - enumerate
+ Задача №6 - list comprehension
